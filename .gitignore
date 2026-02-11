@@ -1,3 +1,9 @@
 airflow_venv
 logs
 .DS_Store
+airflow.cfg
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
